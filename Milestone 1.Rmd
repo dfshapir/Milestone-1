@@ -1,0 +1,12 @@
+---
+title: "Milestone 1"
+author: "Daniel Shapiro"
+date: "2/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am planning on replicating Erik Vardanyan’s paper “Do remittances worsen export diversification?” The code is available on Harvard dataverse, and I was able to find a copy of the paper on Hollis. I’d like to do this paper because I applied for a research Fulbright to Armenia (where Vardanyan is based) for the next academic year, and Vardanyan’s topic is very similar to what I would like to research. I talked it over with Alice, and she was supportive of my working with this paper, even though it is more economics-based than politics-based.
